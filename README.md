@@ -29,9 +29,3 @@ Will be added soon.
 ## Contacts
 Email: little_scamp@yahoo.com
 Feel free to ask any questions!
-<style type="text/css">
-img {
-  width: 64px;
-  height: 64px;
-}
-</style>
