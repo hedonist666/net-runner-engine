@@ -2,4 +2,3 @@ build
 Makefile
 test/files
 scr.sh
-logo.svg
